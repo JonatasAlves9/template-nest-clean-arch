@@ -1,0 +1,10 @@
+export enum ACTIVITY_STATUS {
+  SCHEDULED = 1,
+  STARTED = 2,
+  FINISHED = 3,
+  CANCELED = 4,
+  VALIDATED = 5,
+  REJECTED = 6,
+  MISSED = 7,
+  MISSED_JUSTIFIED = 8,
+}
